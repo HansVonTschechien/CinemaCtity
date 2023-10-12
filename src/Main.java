@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         // Vytvoření kinového komplexu
-        KinoComplex kino = new KinoComplex("Můj Kino");
+        KinoComplex kino = new KinoComplex("KinoLUL");
 
         // Přidání filmů
         kino.addFilm(new Film("Matrix", "PG-13", "Wachowski", true));
